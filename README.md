@@ -16,8 +16,8 @@ Soy un desarrollador web, apasionado por crear aplicaciones web robustas y escal
 ## Habilidades Técnicas
 - **Lenguajes:** ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 - **Frameworks:** ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express) ![Quasar](https://img.shields.io/badge/-Quasar-333333?style=flat&logo=quasar)
-- **Bases de Datos:** ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![CouchDB](https://img.shields.io/badge/-CouchDB-333333?style=flat&logo=apache-couchdb)
-- **Otras herramientas:** ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+- **Bases de Datos:** ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![CouchDB](https://img.shields.io/badge/-CouchDB-333333?style=flat&logo=apache-couchdb) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+- **Otras herramientas:** ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
   ## Contacta Conmigo
 - 📧 [Email](mailto:alfonso191001@gmail.com)
