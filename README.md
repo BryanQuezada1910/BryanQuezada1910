@@ -1,13 +1,12 @@
 # ¡Hola! Soy Bryan Quezada 👋
 
-Soy un desarrollador web, apasionado por crear aplicaciones web robustas y escalables.
+Soy un desarrollador movíl y fullstack, apasionado por crear aplicaciones web robustas y escalables.
 
 ## Acerca de Mí
-- 🌟 **Especialidad:** Backend con Node.js
-- 💼 **Experiencia:** Desarrollador FullStack con experiencia en proyectos como BidAssist y chivotour.com
-- 🎓 **Educación:** Actualmente cursando Ingeniería en Sistemas Informaticos en Universidad de El Salvador.
-- 🌱 **Aprendiendo:** Tecnologias y Frameworks Frontend.
-- ⚡ **Intereses:** Desarrollo de APIs RESTful.
+- 🌟 **Especialidad:** Desarrollo movíl con Expo React Native
+- 💼 **Experiencia:** Actualmente soy desarrollador movíl en TI Negocios
+- 🎓 **Educación:** Actualmente cursando Ingeniería en Sistemas Informaticos en Universidad de El Salvador
+- 🌱 **Aprendiendo:** Tecnologias y Frameworks Frontend
 
   ## Proyectos Destacados
 - [chivotour.com](https://chivotour.com) - Sitio web para explorar sitios turísticos de El Salvador, con módulos de subida de contenido y gestión de usuarios.
